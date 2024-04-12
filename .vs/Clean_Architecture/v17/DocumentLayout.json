@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet\\second_sem\\Clean_Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B380AC58-CC39-4909-BC36-DE1FF9C6A0D1}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|d:\\dotnet\\second_sem\\clean_architecture\\presentation.studentcrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B380AC58-CC39-4909-BC36-DE1FF9C6A0D1}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|solutionrelative:presentation.studentcrud\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDB224C-9384-4EC1-9E4D-E950EDE77006}|Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj|d:\\dotnet\\second_sem\\clean_architecture\\infrastructure.studentcrud\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDB224C-9384-4EC1-9E4D-E950EDE77006}|Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj|solutionrelative:infrastructure.studentcrud\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C88A89-6E98-45BC-AC7D-A8AE2C399FA9}|Application.StudentCRUD\\Application.StudentCRUD.csproj|d:\\dotnet\\second_sem\\clean_architecture\\application.studentcrud\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C88A89-6E98-45BC-AC7D-A8AE2C399FA9}|Application.StudentCRUD\\Application.StudentCRUD.csproj|solutionrelative:application.studentcrud\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B380AC58-CC39-4909-BC36-DE1FF9C6A0D1}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|d:\\dotnet\\second_sem\\clean_architecture\\presentation.studentcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B380AC58-CC39-4909-BC36-DE1FF9C6A0D1}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|solutionrelative:presentation.studentcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B380AC58-CC39-4909-BC36-DE1FF9C6A0D1}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|d:\\dotnet\\second_sem\\clean_architecture\\presentation.studentcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B380AC58-CC39-4909-BC36-DE1FF9C6A0D1}|Presentation.StudentCRUD\\Presentation.StudentCRUD.csproj|solutionrelative:presentation.studentcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452E0F2F-CA2A-4EDF-B1D1-DF4210BCC279}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|d:\\dotnet\\second_sem\\clean_architecture\\domain.studentcrud\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452E0F2F-CA2A-4EDF-B1D1-DF4210BCC279}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|solutionrelative:domain.studentcrud\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452E0F2F-CA2A-4EDF-B1D1-DF4210BCC279}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|d:\\dotnet\\second_sem\\clean_architecture\\domain.studentcrud\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452E0F2F-CA2A-4EDF-B1D1-DF4210BCC279}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|solutionrelative:domain.studentcrud\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDB224C-9384-4EC1-9E4D-E950EDE77006}|Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj|d:\\dotnet\\second_sem\\clean_architecture\\infrastructure.studentcrud\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDB224C-9384-4EC1-9E4D-E950EDE77006}|Infrastructure.StudentCRUD\\Infrastructure.StudentCRUD.csproj|solutionrelative:infrastructure.studentcrud\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452E0F2F-CA2A-4EDF-B1D1-DF4210BCC279}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|d:\\dotnet\\second_sem\\clean_architecture\\domain.studentcrud\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452E0F2F-CA2A-4EDF-B1D1-DF4210BCC279}|Domain.StudentCRUD\\Domain.StudentCRUD.csproj|solutionrelative:domain.studentcrud\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Presentation.StudentCRUD\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Presentation.StudentCRUD\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Presentation.StudentCRUD\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Presentation.StudentCRUD\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwGcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:09:01.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Domain.StudentCRUD\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Domain.StudentCRUD\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Domain.StudentCRUD\\RegisterViewModel.cs",
+              "RelativeToolTip": "Domain.StudentCRUD\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:56:46.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Presentation.StudentCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation.StudentCRUD\\Program.cs",
+              "ToolTip": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Presentation.StudentCRUD\\Program.cs",
+              "RelativeToolTip": "Presentation.StudentCRUD\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T03:26:48.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Domain.StudentCRUD\\AppUser.cs",
+              "RelativeDocumentMoniker": "Domain.StudentCRUD\\AppUser.cs",
+              "ToolTip": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Domain.StudentCRUD\\AppUser.cs",
+              "RelativeToolTip": "Domain.StudentCRUD\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T03:18:42.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Presentation.StudentCRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Presentation.StudentCRUD\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Presentation.StudentCRUD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Presentation.StudentCRUD\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwDAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T03:54:31.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Infrastructure.StudentCRUD\\StudentService.cs",
+              "RelativeDocumentMoniker": "Infrastructure.StudentCRUD\\StudentService.cs",
+              "ToolTip": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Infrastructure.StudentCRUD\\StudentService.cs",
+              "RelativeToolTip": "Infrastructure.StudentCRUD\\StudentService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T03:51:44.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Infrastructure.StudentCRUD\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure.StudentCRUD\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Infrastructure.StudentCRUD\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Infrastructure.StudentCRUD\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T03:10:59.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Application.StudentCRUD\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Application.StudentCRUD\\IStudentService.cs",
+              "ToolTip": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Application.StudentCRUD\\IStudentService.cs",
+              "RelativeToolTip": "Application.StudentCRUD\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:55:48.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Domain.StudentCRUD\\Student.cs",
+              "RelativeDocumentMoniker": "Domain.StudentCRUD\\Student.cs",
+              "ToolTip": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Domain.StudentCRUD\\Student.cs",
+              "RelativeToolTip": "Domain.StudentCRUD\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:49:05.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

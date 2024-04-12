@@ -1,0 +1,15 @@
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\bin\Debug\net8.0\Application.StudentCRUD.deps.json
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\bin\Debug\net8.0\Application.StudentCRUD.dll
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\bin\Debug\net8.0\Application.StudentCRUD.pdb
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\bin\Debug\net8.0\Domain.StudentCRUD.dll
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\bin\Debug\net8.0\Domain.StudentCRUD.pdb
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.csproj.AssemblyReference.cache
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.AssemblyInfoInputs.cache
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.AssemblyInfo.cs
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.csproj.CoreCompileInputs.cache
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\obj\Debug\net8.0\Applicat.C3DFB928.Up2Date
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.dll
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\obj\Debug\net8.0\refint\Application.StudentCRUD.dll
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\obj\Debug\net8.0\Application.StudentCRUD.pdb
+D:\Dotnet\second_sem\Clean_Architecture\Application.StudentCRUD\obj\Debug\net8.0\ref\Application.StudentCRUD.dll

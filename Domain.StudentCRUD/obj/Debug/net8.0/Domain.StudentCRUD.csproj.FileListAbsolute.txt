@@ -1,0 +1,12 @@
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\bin\Debug\net8.0\Domain.StudentCRUD.deps.json
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\bin\Debug\net8.0\Domain.StudentCRUD.dll
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\bin\Debug\net8.0\Domain.StudentCRUD.pdb
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\obj\Debug\net8.0\Domain.StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\obj\Debug\net8.0\Domain.StudentCRUD.AssemblyInfoInputs.cache
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\obj\Debug\net8.0\Domain.StudentCRUD.AssemblyInfo.cs
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\obj\Debug\net8.0\Domain.StudentCRUD.csproj.CoreCompileInputs.cache
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\obj\Debug\net8.0\Domain.StudentCRUD.dll
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\obj\Debug\net8.0\refint\Domain.StudentCRUD.dll
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\obj\Debug\net8.0\Domain.StudentCRUD.pdb
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\obj\Debug\net8.0\ref\Domain.StudentCRUD.dll
+D:\Dotnet\second_sem\Clean_Architecture\Domain.StudentCRUD\obj\Debug\net8.0\Domain.StudentCRUD.csproj.AssemblyReference.cache
