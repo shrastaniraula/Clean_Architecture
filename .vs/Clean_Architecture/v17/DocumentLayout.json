@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Presentation.StudentCRUD\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\Dotnet\\second_sem\\Clean_Architecture\\Presentation.StudentCRUD\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Presentation.StudentCRUD\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAkwGcAAAANAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowGIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T06:09:01.191Z",
               "EditorCaption": ""
@@ -107,8 +107,7 @@
               "RelativeToolTip": "Presentation.StudentCRUD\\Controllers\\StudentController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAmwDAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T03:54:31.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T03:54:31.573Z"
             },
             {
               "$type": "Document",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "Infrastructure.StudentCRUD\\StudentService.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAkwEEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T03:51:44.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T03:51:44.19Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "Application.StudentCRUD\\IStudentService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T02:55:48.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T02:55:48.004Z"
             },
             {
               "$type": "Document",

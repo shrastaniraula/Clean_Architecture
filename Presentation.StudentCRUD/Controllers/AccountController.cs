@@ -98,12 +98,11 @@ namespace Presentation.StudentCRUD.Controllers
             var student = await _userManager.FindByIdAsync(userId);
             if (student != null)
             {
-                student.Email = email;
-                student.UserName = username;
-                student.PhoneNumber = phoneNumber;
+                var token = await _userManager.GeneratePasswordResetTokenAsync(student);
+                var result = await _userManager.ResetPasswordAsync(student, token, password);
             }
 
-            await _userManager.UpdateAsync(student);
+            /*await _userManager.UpdateAsync(student);*/
             return StatusCode(StatusCodes.Status200OK, "Successfully updated");
         }
 

@@ -80,3 +80,4 @@ D:\Dotnet\second_sem\Clean_Architecture\Presentation.StudentCRUD\bin\Debug\net8.
 D:\Dotnet\second_sem\Clean_Architecture\Presentation.StudentCRUD\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\Dotnet\second_sem\Clean_Architecture\Presentation.StudentCRUD\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 D:\Dotnet\second_sem\Clean_Architecture\Presentation.StudentCRUD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Dotnet\second_sem\Clean_Architecture\Presentation.StudentCRUD\obj\Debug\net8.0\Presentation.StudentCRUD.sourcelink.json
